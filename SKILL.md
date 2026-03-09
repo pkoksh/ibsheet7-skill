@@ -1,3 +1,8 @@
+---
+name: ibsheet7
+description: IBSheet7 한국 기업용 JavaScript 그리드 컴포넌트(V7.0.13.x) 개발 지원 skill. 시트 생성, 초기화, CRUD, 이벤트, 엑셀/PDF 등 전체 API 레퍼런스 제공.
+---
+
 # IBSheet7 Skill
 
 IBSheet7은 (주)아이비리더스에서 개발한 한국 기업용 JavaScript 그리드 컴포넌트(V7.0.13.x)입니다.
